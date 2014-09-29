@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<front>
-    <Dashboard>داشبورد</Dashboard>
-    <Charts>چارت ها</Charts>
-	
-	
-</front>
+<Words>
+    <Home>خانه</Home>
+    <Products>محصولات</Products>
+	<About>درباره</About>
+    <Contact>تماس</Contact>
+	<Services>خدمات</Services>
+</Words>
